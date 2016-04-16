@@ -1,0 +1,14 @@
+{
+  "ecmaFeatures": {
+    "jsx": false,
+    "modules": true
+  },
+  "env": {
+    "browser": false,
+    "node": true
+  },
+  "rules": {
+    "quotes": [2, "single"],
+    "strict": [2, "never"]
+  }
+}

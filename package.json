@@ -1,0 +1,29 @@
+{
+  "name": "mars-rover",
+  "version": "1.0.0",
+  "description": "A kata of cyber-dojo.org at http://cyber-dojo.org/kata/edit/59E0CCFB67?avatar=lobster",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panlw/mars-rover.git"
+  },
+  "keywords": [
+    "cyber-dojo",
+    "kata",
+    "mars",
+    "rover"
+  ],
+  "author": "panlw@yeah.net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panlw/mars-rover/issues"
+  },
+  "homepage": "https://github.com/panlw/mars-rover#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}

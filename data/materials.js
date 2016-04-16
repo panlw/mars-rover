@@ -1,0 +1,93 @@
+var materials = [{
+  "id": "1001",
+  "ctg": "MBD",
+  "code": "MBD-A1",
+  "name": "A1型主板",
+  "main": 1,
+  "from": "I",
+  "unit": "p",
+  "misc": "USB2"
+}, {
+  "id": "1002",
+  "ctg": "MBD",
+  "code": "MBD-A2",
+  "name": "A2型主板",
+  "main": 1,
+  "from": "I",
+  "unit": "p",
+  "misc": "USB2/WiFi"
+}, {
+  "id": "1003",
+  "ctg": "MBD",
+  "code": "MBD-A3",
+  "name": "A3型主板",
+  "main": 1,
+  "from": "A",
+  "unit": "p",
+  "misc": "USB3/WiFi"
+}, {
+  "id": "2001",
+  "ctg": "SCN",
+  "code": "SCN-A1",
+  "name": "A1型屏幕",
+  "main": 1,
+  "from": "ZENITH",
+  "unit": "p",
+  "misc": "8寸"
+}, {
+  "id": "2002",
+  "ctg": "SCN",
+  "code": "SCN-A2",
+  "name": "A2型屏幕",
+  "main": 1,
+  "from": "A",
+  "unit": "p",
+  "misc": "8寸/触摸"
+}, {
+  "id": "2003",
+  "ctg": "SCN",
+  "code": "SCN-B1",
+  "name": "B1型屏幕",
+  "main": 1,
+  "from": "H",
+  "unit": "p",
+  "misc": "10寸/触摸"
+}, {
+  "id": "3001",
+  "ctg": "BBD",
+  "code": "BBD-A1",
+  "name": "A1型背板",
+  "main": 1,
+  "from": "L",
+  "unit": "p",
+  "misc": "8寸"
+}, {
+  "id": "3002",
+  "ctg": "BBD",
+  "code": "BBD-A2",
+  "name": "A2型背板",
+  "main": 1,
+  "from": "L",
+  "unit": "p",
+  "misc": "10寸"
+}, {
+  "id": "4001",
+  "ctg": "BOX",
+  "code": "BOX-A1",
+  "name": "A1型包装箱",
+  "main": 1,
+  "from": "Z",
+  "unit": "p",
+  "misc": "40x40x20"
+}, {
+  "id": "4002",
+  "ctg": "BOX",
+  "code": "BOX-A2",
+  "name": "A2型包装箱",
+  "main": 1,
+  "from": "Z",
+  "unit": "p",
+  "misc": "50x50x30"
+}];
+
+module.exports = materials;

@@ -1,0 +1,2 @@
+// assertions
+require('chai').should();
